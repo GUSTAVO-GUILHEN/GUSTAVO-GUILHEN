@@ -6,8 +6,8 @@
 - 🚀   I’m currently learning Full Stack Development at <a href="https://brazil.generation.org/">Generation Brasil</a>'s bootcamp.
 - 📚   Studying: Java, Spring Boot e Angular.
 
-
-
+- 💻 Starting my career as a developer.
+- 📚 Studying: Java, Spring Boot and Angular.
 
 
 
