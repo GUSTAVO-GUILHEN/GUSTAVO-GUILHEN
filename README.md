@@ -5,7 +5,7 @@
 
 
 
-
+- 📚 Studying Civil Engineering at Universidade Paulista - <a href="https://www.unip.br/">UNIP</a>.
 - 💻 Starting my career as a developer.
 - 🚀 I'm currently learning Full Stack Development at <a href="https://brazil.generation.org/">Generation Brasil</a>'s bootcamp.
 - 👯 I’m looking to collaborate on Project <a href="https://github.com/athosgpm/ProjetoIntegrador_findYourHelp">FindYourHelp</a>
