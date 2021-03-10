@@ -2,6 +2,9 @@
 <img src="https://github.com/GUSTAVO-GUILHEN/GUSTAVO-GUILHEN/raw/main/gif.gif" height="370" width="970" />
 </div>
 ### Hi there 👋
+- 💻   Starting my career as a developer.
+- 🚀   I’m currently learning Full Stack Development at <a href="https://brazil.generation.org/">Generation Brasil</a>'s bootcamp.
+- 📚   Studying: Java, Spring Boot e Angular.
 
 
 
