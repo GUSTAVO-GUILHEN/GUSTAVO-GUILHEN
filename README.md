@@ -2,6 +2,10 @@
 <img src="https://github.com/GUSTAVO-GUILHEN/GUSTAVO-GUILHEN/raw/main/gif.gif" height="370" width="970" />
 </div>
 <h1> Hi there 👋 </h1>
+<p align = "left">
+<img src = "https://img.shields.io/github/followers/GUSTAVO-GUILHEN?style=social"/></a>
+<img src = "https://komarev.com/ghpvc/?username=GUSTAVO-GUILHEN"/> 
+</p>
 
 
 
