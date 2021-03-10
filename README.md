@@ -1,5 +1,5 @@
 
-<img src="https://github.com/GUSTAVO-GUILHEN/GUSTAVO-GUILHEN/raw/main/gif.gif" height="270"/>
+<img src="https://github.com/GUSTAVO-GUILHEN/GUSTAVO-GUILHEN/raw/main/gif.gif" height="270" width="970"/>
 
 ### Hi there 👋
 
